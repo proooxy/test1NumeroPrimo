@@ -10,5 +10,5 @@ for (let i = 1; i <= num; i++){
 if(divisoes == 2){
     console.log(`${num} É um numero primo`);
 }else{
-    console.log(`${num} Não é um numero primo`);
+    console.log(`${num} Não é um numero primo`)
 }
